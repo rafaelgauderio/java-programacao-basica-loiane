@@ -17,7 +17,6 @@ public class For_Each_Matriz {
 		notasAlunos[2][1] = 5.7;
 		notasAlunos[2][2] = 3.6;
 
-		
 		int i = 0;
 		for (double[] apelido : notasAlunos) {
 
@@ -31,7 +30,6 @@ public class For_Each_Matriz {
 			i++;
 
 		}
-		
 
 	}
 
