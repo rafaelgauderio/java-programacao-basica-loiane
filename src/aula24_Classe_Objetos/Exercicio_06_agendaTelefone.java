@@ -1,6 +1,6 @@
 package aula24_Classe_Objetos;
 
-public class Exercicio_06 {
+public class Exercicio_06_agendaTelefone {
 
 	public static void main(String[] args) {
 	

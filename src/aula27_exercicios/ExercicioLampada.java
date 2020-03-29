@@ -1,4 +1,4 @@
-package Aula27_exercicios;
+package aula27_exercicios;
 
 public class ExercicioLampada {
 

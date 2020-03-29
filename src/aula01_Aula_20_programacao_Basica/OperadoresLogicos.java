@@ -1,4 +1,4 @@
-package programacao_Basica;
+package aula01_Aula_20_programacao_Basica;
 
 public class OperadoresLogicos {
 
